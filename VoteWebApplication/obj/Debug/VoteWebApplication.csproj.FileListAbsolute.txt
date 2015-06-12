@@ -1,0 +1,6 @@
+C:\Users\Web App Develop .Net\Documents\Visual Studio 2013\Projects\VoteWebApplication\VoteWebApplication\bin\VoteWebApplication.dll.config
+C:\Users\Web App Develop .Net\Documents\Visual Studio 2013\Projects\VoteWebApplication\VoteWebApplication\bin\VoteWebApplication.dll
+C:\Users\Web App Develop .Net\Documents\Visual Studio 2013\Projects\VoteWebApplication\VoteWebApplication\bin\VoteWebApplication.pdb
+C:\Users\Web App Develop .Net\Documents\Visual Studio 2013\Projects\VoteWebApplication\VoteWebApplication\obj\Debug\VoteWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Documents\Visual Studio 2013\Projects\VoteWebApplication\VoteWebApplication\obj\Debug\VoteWebApplication.dll
+C:\Users\Web App Develop .Net\Documents\Visual Studio 2013\Projects\VoteWebApplication\VoteWebApplication\obj\Debug\VoteWebApplication.pdb
